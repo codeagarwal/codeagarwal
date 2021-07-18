@@ -1,6 +1,6 @@
 ## Hola, I'm Mayank Agarwal! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-a-g-g&label=Views&color=red&style=plastic" alt="m-a-g-g" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeagarwal&label=Views&color=red&style=plastic" alt="m-a-g-g" /> </p>
 
 <a href="https://twitter.com/m_agg02">
   <img align="left" alt="Mayank's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/codeagarwal">
   <img align="left" alt="Mayank's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/m-a-g-g">
+<a href="https://github.com/codeagarwal">
   <img align="left" alt="Mayank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/mayank.io/">
@@ -34,7 +34,7 @@
 
 [![Twitter: @m_agg02](https://img.shields.io/twitter/follow/m_agg02?style=social)](https://twitter.com/m_agg02)
 [![Linkedin: codeagarwal](https://img.shields.io/badge/-codeagarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codeagarwal/)](https://www.linkedin.com/in/codeagarwal/)
-[![GitHub m-a-g-g](https://img.shields.io/github/followers/m-a-g-g?label=follow&style=social)](https://github.com/m-a-g-g)
+[![GitHub codeagarwal](https://img.shields.io/github/followers/codeagarwal?label=follow&style=social)](https://github.com/m-a-g-g)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Mayank%20Agarwal-2648ff?style=flat-square&logo=google-chrome)](https://m-a-g-g.github.io/)
 
 
@@ -51,20 +51,20 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 
 
-<a href="https://github.com/m-a-g-g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-G-G&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/codeagarwal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeagarwal&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/m-a-g-g">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-a-g-g&show_icons=true&theme=dark&line_height=27" alt="Mayank's GitHub stats"/>
+<a href="https://github.com/codeagarwal">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeagarwal&show_icons=true&theme=dark&line_height=27" alt="Mayank's GitHub stats"/>
 </a>
 
 
 <a href="https://github.com/m-a-g-g/Flutter-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-a-g-g&repo=Flutter-Projects&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeagarwal&repo=Flutter-Projects&theme=dark" />
 </a>
 
 <a href="https://github.com/m-a-g-g/flutter_30_days">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-a-g-g&repo=flutter_30_days&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeagarwal&repo=flutter_30_days&theme=dark" />
 </a>
 
 
