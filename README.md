@@ -1,16 +1,75 @@
-### Hi there 👋
+## Hola, I'm Mayank Agarwal! 👋
 
-<!--
-**m-a-g-g/m-a-g-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-a-g-g&label=Views&color=red&style=plastic" alt="m-a-g-g" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/m_agg02">
+  <img align="left" alt="Mayank's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/codeagarwal">
+  <img align="left" alt="Mayank's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/m-a-g-g">
+  <img align="left" alt="Mayank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/mayank.io/">
+  <img align="left" alt="Mayank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mayankagg002/">
+  <img align="left" alt="Mayank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCpaRE1g6f4-AByp7TIUSXjg">
+  <img align="left" alt="Mayank's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+- 🔭 I’m currently working with Communities.
+- 🌱 I’m currently learning more about Web Technologies.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpaRE1g6f4-AByp7TIUSXjg).
+- 💬 Ask me about Flutter, Android or any tech related stuff.
+- 📫 How to reach me: [Twitter - @m_agg02](https://twitter.com/m_agg02) , [Youtube - @Techbeanz](https://www.youtube.com/channel/UCpaRE1g6f4-AByp7TIUSXjg)
+- 😄 Pronouns: He/His.
+
+[![Twitter: @m_agg02](https://img.shields.io/twitter/follow/m_agg02?style=social)](https://twitter.com/m_agg02)
+[![Linkedin: codeagarwal](https://img.shields.io/badge/-codeagarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codeagarwal/)](https://www.linkedin.com/in/codeagarwal/)
+[![GitHub m-a-g-g](https://img.shields.io/github/followers/m-a-g-g?label=follow&style=social)](https://github.com/m-a-g-g)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Mayank%20Agarwal-2648ff?style=flat-square&logo=google-chrome)](https://m-a-g-g.github.io/)
+
+
+**Hands on Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>    
+<code><img height="20" src="https://avatars.githubusercontent.com/u/23533486?s=200&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
+
+
+<a href="https://github.com/m-a-g-g">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-G-G&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/m-a-g-g">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-a-g-g&show_icons=true&theme=light&line_height=27" alt="Mayank's GitHub stats"/>
+</a>
+
+
+<a href="https://github.com/m-a-g-g/Flutter-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-a-g-g&repo=Flutter-Projects&theme=dark" />
+</a>
+
+<a href="https://github.com/m-a-g-g/flutter_30_days">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-a-g-g&repo=flutter_30_days&theme=dark" />
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
