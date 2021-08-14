@@ -35,7 +35,7 @@
 [![Twitter: @m_agg02](https://img.shields.io/twitter/follow/m_agg02?style=social)](https://twitter.com/m_agg02)
 [![Linkedin: codeagarwal](https://img.shields.io/badge/-codeagarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codeagarwal/)](https://www.linkedin.com/in/codeagarwal/)
 [![GitHub codeagarwal](https://img.shields.io/github/followers/codeagarwal?label=follow&style=social)](https://github.com/codeagarwal)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Mayank%20Agarwal-2648ff?style=flat-square&logo=google-chrome)](https://m-a-g-g.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Mayank%20Agarwal-2648ff?style=flat-square&logo=google-chrome)](https://codeagarwal.github.io/)
 
 
 **Hands on Languages and Tools:**  
