@@ -26,7 +26,7 @@
 
 
 - 🔭 I’m currently working with Communities.
-- 🌱 I’m currently learning more about Web Technologies.
+- 🌱 I’m currently working on Mobile Apps and Health Tech.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpaRE1g6f4-AByp7TIUSXjg).
 - 💬 Ask me about Flutter, Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @m_agg02](https://twitter.com/m_agg02) , [Youtube - @Techbeanz](https://www.youtube.com/channel/UCpaRE1g6f4-AByp7TIUSXjg)
